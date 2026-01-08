@@ -5,7 +5,7 @@ const images = [
   { title: "Resort Pool", size: "wide", src: "https://images.unsplash.com/photo-1540541338287-41700207dee6" },
   { title: "AC Deluxe Room", size: "tall", src: "https://images.unsplash.com/photo-1618773928121-c32242e63f39" },
   { title: "Kelva Beach", size: "small", src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e" },
-  { title: "Authentic Dining", size: "small", src: "https://images.unsplash.com/photo-1550966841-3ee5ad60d0d9" }
+  { title: "Authentic Dining", size: "small", src: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1000&q=80" }
 ];
 
 export default function GalleryPage() {

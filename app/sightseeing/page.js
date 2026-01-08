@@ -7,21 +7,21 @@ const sights = [
     desc: "A vast 7km stretch of clean sand and Suru trees. Enjoy horse-cart rides, camel rides, and the famous 'black sand' experience.",
     badge: "Must Visit",
     dist: "0.4 km",
-    img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    img: "https://images.unsplash.com/photo-1711189765300-50d0bd3a2e00?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
-  {
+ {
     title: "Shitladevi Temple",
     desc: "An ancient, highly revered temple over 300 years old. Restored by Devi Ahilyabai Holkar, it is a spiritual heart of Kelva.",
     badge: "Spiritual",
     dist: "0.2 km",
-    img: "https://images.unsplash.com/photo-1544011501-a212df283442"
+    img: "https://images.unsplash.com/photo-1524443169398-9aa1ceab67d5?q=80&w=1148&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Kelva Pankot (Sea Fort)",
     desc: "A unique fort surrounded by water on all sides. It offers enchanting views during high tide and is accessible by boat.",
     badge: "Adventure",
     dist: "1.0 km",
-    img: "https://images.unsplash.com/photo-1590059392234-8b653303426e"
+    img: "https://images.unsplash.com/photo-1711189764038-87ba4ca9def3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Kelva Dam & Lake",
@@ -53,7 +53,7 @@ export default function SightseeingPage() {
     title="Explore Kelva" 
     subtitle="From ancient Portuguese forts to hidden island temples, discover the rich heritage 
           of the Konkan coast just minutes from our resort." 
-    bgImage="https://images.unsplash.com/photo-1590059392234-8b653303426e?q=80&w=2000" 
+    bgImage="https://images.unsplash.com/photo-1711189765300-50d0bd3a2e00?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
   />
     <section className="py-[80px] px-[8%] bg-white">
 

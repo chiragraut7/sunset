@@ -13,7 +13,7 @@ export default function ReviewsPage() {
     <PageBanner 
   title="Guest Reviews" 
   subtitle="What our visitors say about us" 
-  bgImage="https://images.unsplash.com/photo-1550966841-3ee5ad60d0d9?q=80&w=2000" 
+  bgImage="https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=1920" 
 />
     <section className="py-[80px] px-[8%] text-center bg-gray-50">
       <div className="grid md:grid-cols-3 gap-[30px]">
