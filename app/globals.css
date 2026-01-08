@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 /* 1. CSS Variables matching your original HTML */
 :root {
@@ -10,12 +8,6 @@
   --dark: #1a1a1a;
 }
 
-/* 2. Base Typography and Reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 body {
   font-family: 'Montserrat', sans-serif;
@@ -129,4 +121,4 @@ nav {
 
 .text-orange {
   color: var(--primary);
-}   
+}
